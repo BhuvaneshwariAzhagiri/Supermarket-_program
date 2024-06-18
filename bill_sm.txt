@@ -1,0 +1,19 @@
+Superarket Bill:
+Dateandtime2024-06-18 17:52:46
+
+Cooking Ingredients:
+  mutton masala: Rs.10
+  noodles: Rs.24
+Household & Cleaning Products:
+  paste: Rs.20
+  comfort: Rs.30
+Snacks Items:
+  munch: Rs.20
+  lays: Rs.20
+Dairy Products:
+  pudding: Rs.70
+  ice cream: Rs.40
+Beauty Products:
+  sunscreen: Rs.140
+
+Total amount for all items: Rs.374
